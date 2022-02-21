@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "POC Github Pages Kovi"
 date:   2022-02-21 09:29:29 -0300
-categories: jekyll update
+categories: poc github-pages jekyll
 ---
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vReLXoXu_NORFrkVytZVewrCDTo0FksfUvTlc_M-T7S5sT0KeOJMKhJ17sg-kvwQEA8HDyjiYGIszIN/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
